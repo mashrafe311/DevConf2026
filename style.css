@@ -86,7 +86,7 @@ ul{
 
     background:
         linear-gradient(#051226BF,#051226BF),
-        url("../images/banner.jpg");
+        url("./images/banner.jpg");
 
     background-size:cover;
     background-position:center;
