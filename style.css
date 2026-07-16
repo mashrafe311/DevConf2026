@@ -45,9 +45,8 @@ ul{
 
 }
 
-/* navabr section */
 
-.navbar{
+.bar-content{
 
     display:flex;
     justify-content:space-between;
@@ -56,6 +55,10 @@ ul{
     padding:28px 60px;
    
 }
+
+/* navabr section */
+
+
 
 
 .nav-links{
@@ -319,9 +322,8 @@ ul{
 
 
 
-/*=========================
-      Hackathon
-=========================*/
+
+ /* placeholder section (Hackathon)  */
 
 .hackathon{
 
@@ -427,4 +429,55 @@ ul{
 }
 
 
- 
+/* footer section  */
+
+.footer{
+    margin-top: 10px;
+    background:#0D1B2A;
+    
+    
+}
+
+
+
+.footer-left{
+
+    display:flex;
+    align-items:center;
+    gap:18px;
+
+}
+
+
+.footer-left p{
+
+    font-size:13px;
+    color:#98A2B3;
+
+}
+
+.footer-right{
+
+    display:flex;
+    align-items:center;
+    gap:18px;
+
+}
+
+.footer-right a{
+
+    color:#98A2B3;
+    font-size:13px;
+    
+
+}
+
+
+
+.footer-social img{
+
+    width:18px;
+    height:18px;
+
+}
+
